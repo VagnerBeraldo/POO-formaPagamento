@@ -41,6 +41,5 @@ IDE utilizada para desenvolvimento: Netbeans
 - [Vagner Beraldo](https://github.com/VagnerBeraldo)
 
 ### Diagrama de Classe
-![Diagrama de Classe](https://github.com/VagnerBeraldo/bilheteriaMuseu/blob/main/fluxogramaIngressos.PNG)
+![Diagrama de Classe](https://github.com/VagnerBeraldo/POO-formaPagamento/blob/main/diagramaFormaPagamento.png)
 
-![Mapa Lógico da Rede](https://github.com/VagnerBeraldo/bilheteriaMuseu/blob/main/redeMuseu.png)
