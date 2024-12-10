@@ -22,8 +22,8 @@ Trata-se de um app para pagamento onde o usuário escolhe a forma de pagamento (
   As classes de forma de pagamento são independentes podendo ser incluída novas formas de pagamento
   ou excluída, que não afetará a base da aplicação.
 
-**Autor:**
-- **Vagner Vieira Beraldo **
+## 💻 Desenvolvedor / Autor 
+- [Vagner Beraldo](https://github.com/VagnerBeraldo)
 
 Aluno do 2º semestre do curso de Desenvolvimento de Sistemas do SENAC - Santo Amaro.
 
@@ -36,10 +36,6 @@ IDE utilizada para desenvolvimento: Netbeans
 - interface (para método comum as classes de forma de pagamento)
 - estrutura de decisão if / switch case
 - métodos
-
-
-## 💻 Desenvolvedor
-- [Vagner Beraldo](https://github.com/VagnerBeraldo)
 
 ### Diagrama de Classe
 ![Diagrama de Classe](https://github.com/VagnerBeraldo/POO-formaPagamento/blob/main/diagramaFormaPagamento.png)
