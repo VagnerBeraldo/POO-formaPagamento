@@ -3,7 +3,7 @@ Criação de aplicativo de console
 ## Descrição
 Aplicação com cunho didático voltado para Programação Orientada a Objetos na linguagem java.
 Trata-se de um app para pagamento onde o usuário escolhe a forma de pagamento (cartão de crédito, pix ou boleto).
-- ** Base da aplicação **
+- Base da aplicação 
     Criado uma classe abstract com os atributos (double valorPagamento e boolean statusPagamento)
     e método processarPagamento().
 
@@ -13,12 +13,12 @@ Trata-se de um app para pagamento onde o usuário escolhe a forma de pagamento (
     Para cada forma de pagamento foi criada uma classe que herda os atributos e métodos da classe
     abstrata e implementa a regra geral de validação da transação.
 
-    As classes são semelhantes na construção, mas possui uma regra única para cada classe
-    quanto a aplicação de taxa ou desconto, bem como a validação da transação, que ocorre de forma 
-    aleatória, apenas para simular uma condição de não aceitação de um cartão de crédito, por exemplo.
+  As classes são semelhantes na construção, mas possuem uma regra única para cada classe quanto à aplicação
+  de taxa ou desconto, bem como à validação da transação, que ocorre de forma aleatória apenas para simular
+  uma condição de não aceitação de um cartão de crédito, por exemplo.
 
-    As classes de forma de pagamento são independentes podendo ser incluída novas formas de pagamento
-    ou excluída, que não afetará a base da aplicação.
+  As classes de forma de pagamento são independentes podendo ser incluída novas formas de pagamento
+  ou excluída, que não afetará a base da aplicação.
 
 **Autor:**
 - **Vagner Vieira Beraldo **
