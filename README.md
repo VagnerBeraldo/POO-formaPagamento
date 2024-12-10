@@ -1,9 +1,8 @@
 # Projeto de POO - Forma de Pagamento
 Criação de aplicativo de console
 ## Descrição
-Aplicação com cunho didático voltado para Programação Orientada a Objetos na linguagem java
-Trata-se de um app para pagamento onde o usuário escolhe a forma de pagamento (cartão de cré-
-dito, pix ou boleto).
+Aplicação com cunho didático voltado para Programação Orientada a Objetos na linguagem java.
+Trata-se de um app para pagamento onde o usuário escolhe a forma de pagamento (cartão de crédito, pix ou boleto).
 - ** Base da aplicação **
     Criado uma classe abstract com os atributos (double valorPagamento e boolean statusPagamento)
     e método processarPagamento().
